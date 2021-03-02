@@ -21,7 +21,6 @@
   z-index: 6;
 }
 
-
 .footer {
   min-height: 350px;
   box-sizing: border-box;
@@ -30,7 +29,6 @@
   justify-content: center;
   background-color: #1f1f1f;
 }
-
 
 .section-title {
   width: 60%;
@@ -108,7 +106,6 @@
   z-index: 2;
 }
 
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
   width: 568px;
