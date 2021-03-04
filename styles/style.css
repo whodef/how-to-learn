@@ -100,10 +100,6 @@
   justify-content: space-between;
 }
 
-.two-columns__main-text {
-  min-width: 784px;
-}
-
 .header__main-illustration {
   width: 765px;
   height: 608px;
