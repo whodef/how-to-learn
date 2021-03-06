@@ -32,7 +32,7 @@
 }
 
 .description {
-  padding: 100px 0;
+  padding-top: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
