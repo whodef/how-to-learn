@@ -1,0 +1,8 @@
+.footer__column-heading {
+  margin-block-start: 0; /* Сброс стилей браузера для заголовка */
+  margin-block-end: 0;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+}

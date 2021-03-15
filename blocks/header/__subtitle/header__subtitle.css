@@ -1,0 +1,13 @@
+.header__subtitle {
+  margin-block-start: 0; /* Сброс стилей браузера для <p> */
+  margin-block-end: 0;
+  width: 388px;
+  font-weight: normal;
+  position: absolute;
+  bottom: 30px;
+  left: 64px;
+  line-height: 25px;
+  font-size: 18px;
+  align-self: auto;
+  z-index: 3;
+}

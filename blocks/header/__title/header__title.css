@@ -1,0 +1,12 @@
+.header__title {
+  margin-block-start: 0; /* Сброс стилей браузера для заголовка */
+  margin-block-end: 0;
+  margin: auto 64px;
+  width: 730px;
+  font-size: 102px;
+  line-height: 96px;
+  font-weight: bold;
+  align-self: auto;
+  justify-content: center;
+  z-index: 4;
+}
