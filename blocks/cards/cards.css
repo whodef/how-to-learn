@@ -1,0 +1,12 @@
+.cards {
+  margin: 0;
+  padding: 0;
+  min-width: 920px;
+  display: grid;
+  grid-column-gap: 100px;
+  grid-row-gap: 0;
+  grid-template-columns: repeat(auto-fit, 300px);
+  list-style: none;
+}
+
+/* А с Grid'ом лучше и даже как-то понятнее */
