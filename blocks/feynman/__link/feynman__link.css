@@ -15,3 +15,7 @@
 .feynman__link:hover {
   opacity: 0.6;
 }
+
+.feynman__link:visited {
+  color: cornflowerblue;
+}

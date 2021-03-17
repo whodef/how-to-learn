@@ -8,3 +8,6 @@
 .khan__buy-link:hover {
   opacity: 0.6;
 }
+.khan__buy-link:visited {
+  color: cornflowerblue;
+}

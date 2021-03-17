@@ -6,3 +6,7 @@
 .header__link:hover {
   opacity: 0.6;
 }
+
+.header__link:visited {
+  color: cornflowerblue;
+}

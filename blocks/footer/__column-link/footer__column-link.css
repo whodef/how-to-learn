@@ -9,3 +9,7 @@
 .footer__column-link:hover {
   opacity: 0.6;
 }
+
+.footer__column-link:visited {
+  color: cornflowerblue;
+}
