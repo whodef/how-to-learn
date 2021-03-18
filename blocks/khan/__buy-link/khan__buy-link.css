@@ -7,6 +7,7 @@
 
 .khan__buy-link:hover {
   opacity: 0.6;
+  transition: all 1s, color ease;
 }
 .khan__buy-link:visited {
   color: cornflowerblue;

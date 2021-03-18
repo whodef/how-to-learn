@@ -8,6 +8,7 @@
 
 .footer__column-link:hover {
   opacity: 0.6;
+  transition: all 1s, color ease;
 }
 
 .footer__column-link:visited {
