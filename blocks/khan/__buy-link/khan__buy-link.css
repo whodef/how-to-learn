@@ -3,6 +3,7 @@
   font-size: 30px;
   font-weight: normal;
   color: #2f80ed;
+  text-decoration: none;
 }
 
 .khan__buy-link:hover {
@@ -10,5 +11,5 @@
   transition: all 1s, color ease;
 }
 .khan__buy-link:visited {
-  color: cornflowerblue;
+  color: #6495ED;
 }
